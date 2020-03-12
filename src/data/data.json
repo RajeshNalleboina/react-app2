@@ -1,0 +1,20 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Rajesh",
+                "des":"Software Engineer",
+                "email":"rajesh.n@apssdc.in",
+                "mobile":"9100965113"
+            }
+        },
+        {
+            "basics":{
+                "name":"Hanuman",
+                "des":"Software Engineer",
+                "email":"hanuman.p@apssdc.in",
+                "mobile":"7989715061"
+            }
+        }
+    ]
+}
